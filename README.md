@@ -11,9 +11,15 @@ Para esse desafio foi proposto a alteração do arquivo “old-school.html” us
 
 - Para testar a responsividade da page, clique na imagem abaixo com o *scroll* ou com o botão direito do mouse para abrir em nova aba:
 
-<a href="https://debhvalois.github.io/desafio-busca-onibus/" alt="HTML5 Bootstrap" target="_blank" >
-  <img src="./img/imageReadme.png" width="200px">
-</a>
+<table align="center">
+  <tr>
+    <td>
+      <a href="https://debhvalois.github.io/desafio-busca-onibus/" alt="Page" target="_blank">
+        <img src="./img/imageReadme.png" width="300px" alt=""/>
+      </a>
+    </td>
+  </tr>
+</table>
 
 ## :hammer_and_wrench: Tecnologias Utilizadas :
 # HTML5 | CSS3 | Bootstrap
