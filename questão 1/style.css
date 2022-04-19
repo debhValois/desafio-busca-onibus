@@ -1,0 +1,12 @@
+*{
+margin: 0;
+padding:0;
+}
+
+.bo_visible_true {
+    background-color: #ccffcc !important;
+}
+
+.bo_visible_false {
+    background-color: #ffcccc !important;
+}
